@@ -2,7 +2,7 @@
 
 This repository contains a python script for analyzing the users (event creators) and hours (total duration of events) on a [Google calendar](https://www.google.com/calendar/about/) in specified intervals of time.  The script relies on Google's [Google calendar python API](https://developers.google.com/calendar/quickstart/python).  The [ChEM-H MCAC](https://chemh.stanford.edu/knowledge-centers/metabolic-chemistry-analysis-center) uses this script to distribute operating costs for our LC-MS instruments to our collaborators on a usage-time normalized basis.
 
-We are publishing it because (a) we want to be transparent about how our cost-sharing is done and (b) because learning the Google calendar API took a lot of time and there is a chance this may be useful to other folks that use 
+We are publishing it because (a) we want to be transparent about how our cost-sharing is done and (b) because learning the Google calendar API took a lot of time and there is a chance this may be useful to other folks that use Google Calendar to track instrument usage.
 
 ## Installation
 
@@ -76,10 +76,6 @@ optional arguments:
 
 ```
 
-## Authors
-
-* The code, as of May 2018, was written by [Curt R. Fischer](https://github.com/Stanford-ChEMH-MCAC/).
-
 ## License
 
 This code is licensed with the [MIT License](https://opensource.org/licenses/MIT).
@@ -91,7 +87,7 @@ This code is licensed with the [MIT License](https://opensource.org/licenses/MIT
 
 ## Contributing
 
-Pull requests are welcome.  If you use the code, please cite our paper (details forthcoming).  If you have questions about how any bit of this works, please file an [issue](https://github.com/Stanford-ChEMH-MCAC/d2o_metabolomics/issues) here on GitHub.
+Pull requests are welcome.  If you have questions about how any bit of this works, please file an [issue](https://github.com/Stanford-ChEMH-MCAC/gcal_usage/issues) here on GitHub.
 
 ## Authors
 
