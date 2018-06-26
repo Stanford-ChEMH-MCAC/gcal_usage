@@ -63,7 +63,7 @@ def parse_arguments():
             action='store',
             help="Filename of csv file to store",
             required=False,
-            default='out.csv',
+            default=None,
             type=str
                         )
 
@@ -92,6 +92,12 @@ def parse_arguments():
         if parsed.end_date is None:
             today = datetime.datetime.utcnow()
             parsed.end_date = today
+
+        if parsed.output_file is None:
+            start = parsed.start_date.date()
+            end = parsed.end_date.date()
+            calendar = parsed.calendar
+            parsed.output_file = 'from_{}_to_{}_{}.csv'.format(start, end, calendar)
         
         return(parsed)
 
@@ -229,8 +235,11 @@ def main():
                                                           'duration_hr': 'sum',
                                                           }, axis='columns')
 
-    print('Found {} events and wrote to file {}'.format(len(out_df), out_file))
+    print('Found {} events totalling {} hours and wrote to file {}'.format(len(out_df),
+                                                                           out_df['duration_hr'].sum(),
+                                                                           out_file))
     out_df.to_csv(out_file, index=False)
+
 
 if __name__ == '__main__':
     main()
