@@ -19,7 +19,6 @@ Requirements are many and varied.  A rough guide:
 * `argparse`.
 
 * general tip: use the [conda](https://conda.io/docs/) system for package management and installation.
-	* installing `xcms` is probably an exception to above.
 
 ## Usage example:
 
