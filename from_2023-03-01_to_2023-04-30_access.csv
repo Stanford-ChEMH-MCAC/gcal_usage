@@ -1,0 +1,106 @@
+calendar,event_id,event_name,creator_name,creator_email,start_time,end_time,created_at,updated_at,duration_hr
+access,6td33p4kag2phpt0hg34gfhkvv,Pd,unknown,terry@octant.bio,2023-03-01 12:30:00-08:00,2023-03-01 15:00:00-08:00,2023-03-01T18:41:36.000Z,2023-03-01T18:41:57.574Z,2.5
+access,3tge3gpa66kc4nj33c5f3h38e2,Condition scouting,unknown,edward@octant.bio,2023-03-01 15:00:00-08:00,2023-03-01 18:00:00-08:00,2023-02-23T18:29:12.000Z,2023-03-01T17:00:27.603Z,3.0
+access,7f8ma04sj2dkk1jk0okq8urmur,Glyc plate,unknown,edward@octant.bio,2023-03-02 09:00:00-08:00,2023-03-02 11:00:00-08:00,2023-02-27T18:56:41.000Z,2023-02-27T18:56:44.284Z,2.0
+access,3pv2hheicv12vabhcfgkan1d7p,PKU Dev: Drug Cells,unknown,dominic@octant.bio,2023-03-02 11:00:00-08:00,2023-03-02 12:00:00-08:00,2023-02-28T01:46:33.000Z,2023-03-01T22:08:49.609Z,1.0
+access,2ue6bsbfnqlrskp05pr2ddc0i9,QC Prep,unknown,terry@octant.bio,2023-03-02 13:00:00-08:00,2023-03-02 16:00:00-08:00,2023-03-02T16:26:47.000Z,2023-03-02T16:27:26.064Z,3.0
+access,34nrg7pb11n9mk88rpul3hc73q,QC xfer,unknown,edward@octant.bio,2023-03-02 16:00:00-08:00,2023-03-02 17:00:00-08:00,2023-03-02T18:17:40.000Z,2023-03-02T18:17:42.600Z,1.0
+access,2i338kdgjjn6u4kqefs52mmc8t,hits synthesis,unknown,edward@octant.bio,2023-03-03 12:00:00-08:00,2023-03-03 16:00:00-08:00,2023-03-02T18:25:51.000Z,2023-03-02T18:26:01.619Z,4.0
+access,67kg06hq0ibue5vst4prktp9qi,QC plate,unknown,edward@octant.bio,2023-03-06 10:00:00-08:00,2023-03-06 11:00:00-08:00,2023-03-06T17:25:39.000Z,2023-03-06T17:25:42.771Z,1.0
+access,7chnbr2v9e9mdfo3e85spiq6d1,Drug Cells,unknown,dominic@octant.bio,2023-03-06 11:00:00-08:00,2023-03-06 12:00:00-08:00,2023-03-02T20:07:49.000Z,2023-03-06T19:19:08.547Z,1.0
+access,1jkj8b10afit2j02krmqhbv93v,Pd,unknown,terry@octant.bio,2023-03-06 13:30:00-08:00,2023-03-06 17:00:00-08:00,2023-03-06T19:15:47.000Z,2023-03-07T00:02:11.637Z,3.5
+access,5d9j3g9vajifd7750msgp7bh28,GFA-037: FAC Plate Prep,unknown,theo@octant.bio,2023-03-06 17:00:00-08:00,2023-03-06 21:00:00-08:00,2023-03-06T16:41:39.000Z,2023-03-06T19:14:22.621Z,4.0
+access,2qg49ojiucc6gmbne2s4p3e9aa,FAC plates,unknown,edward@octant.bio,2023-03-07 08:00:00-08:00,2023-03-07 12:00:00-08:00,2023-03-06T17:26:17.000Z,2023-03-06T17:26:20.574Z,4.0
+access,3rhb2dsfo8m0uh8go2bpetpkqe,Pd QC xfer,unknown,terry@octant.bio,2023-03-07 12:00:00-08:00,2023-03-07 14:00:00-08:00,2023-03-07T16:48:50.000Z,2023-03-07T16:48:53.683Z,2.0
+access,6n52l7023qatnc9oolhesosc8c,384 to 1536PE protocol,unknown,lizvette@octant.bio,2023-03-08 13:30:00-08:00,2023-03-08 14:00:00-08:00,2023-03-07T23:08:45.000Z,2023-03-08T21:19:34.807Z,0.5
+access,4b7g2jogs80vg7n6mij0k232og,Pd,unknown,terry@octant.bio,2023-03-08 17:30:00-08:00,2023-03-08 20:00:00-08:00,2023-03-09T01:22:31.000Z,2023-03-09T01:22:34.546Z,2.5
+access,7i2tvil6j2l9etlmi30niffg53,PKU Dev: Drug Cells,unknown,dominic@octant.bio,2023-03-09 08:00:00-08:00,2023-03-09 09:00:00-08:00,2023-03-07T20:08:23.000Z,2023-03-09T16:41:55.142Z,1.0
+access,5fnof4eop93dhs2tsi3aec0bue,Access System Training - Yuning / Galen,unknown,galen@octant.bio,2023-03-09 10:00:00-08:00,2023-03-09 12:00:00-08:00,2023-02-27T18:23:16.000Z,2023-03-09T18:04:16.886Z,2.0
+access,1p9niba304c5865of5odf90bl9,Condition scouting,unknown,edward@octant.bio,2023-03-09 14:00:00-08:00,2023-03-09 16:30:00-08:00,2023-03-08T21:46:45.000Z,2023-03-09T18:44:29.657Z,2.5
+access,3qs9ilhb4fav9n8h1komi66seq,qc,unknown,terry@octant.bio,2023-03-10 09:30:00-08:00,2023-03-10 11:30:00-08:00,2023-03-10T17:29:01.000Z,2023-03-10T17:29:04.221Z,2.0
+access,7jqv1tqkk9dn1vi6acvfoshss5,QC Xfer,unknown,edward@octant.bio,2023-03-10 13:30:00-08:00,2023-03-10 15:00:00-08:00,2023-03-10T17:38:10.000Z,2023-03-10T20:41:00.261Z,1.5
+access,3rpqhopiak2nsiv7sc2221ubnr,Jennifer / Jimin test glucose dispense on echo,unknown,jimin@octant.bio,2023-03-13 14:30:00-07:00,2023-03-13 15:00:00-07:00,2023-03-13T15:48:21.000Z,2023-03-13T16:25:21.190Z,0.5
+access,7vhr2if9urfmr7uecg6v1niot4,MAP-171: FAC plate prep,unknown,joshua@octant.bio,2023-03-13 15:30:00-07:00,2023-03-14 00:45:00-07:00,2023-03-08T22:58:54.000Z,2023-03-08T23:02:03.974Z,9.25
+access,45am4unqgqhr9cc27t4j7m7glb,FAC and QC plates,unknown,edward@octant.bio,2023-03-14 08:00:00-07:00,2023-03-14 12:30:00-07:00,2023-03-09T00:46:16.000Z,2023-03-09T00:46:19.753Z,4.5
+access,20hr42sm0bfispl44al8t2nuo1,QC plates,unknown,edward@octant.bio,2023-03-14 13:00:00-07:00,2023-03-14 13:30:00-07:00,2023-03-14T19:15:47.000Z,2023-03-14T20:14:35.032Z,0.5
+access,7vpatd0jdpmoctrila4iabum75,GFA-041: FAC Plate Prep,unknown,theo@octant.bio,2023-03-14 16:45:00-07:00,2023-03-14 20:45:00-07:00,2023-03-13T17:26:48.000Z,2023-03-14T03:29:40.057Z,4.0
+access,5mmdi3mii9kmr5assraeput7d1,might remote into during meeting,unknown,albert@octant.bio,2023-03-15 12:00:00-07:00,2023-03-15 13:00:00-07:00,2023-03-15T19:04:33.000Z,2023-03-15T19:04:36.553Z,1.0
+access,3s91juc4nck97rumsocrprpbtm,Access system training,unknown,galen@octant.bio,2023-03-16 10:00:00-07:00,2023-03-16 12:00:00-07:00,2023-03-14T17:25:15.000Z,2023-03-14T18:15:58.806Z,2.0
+access,5h2o8rfnkk75cl9f7q2n1b0tdi,Pd,unknown,terry@octant.bio,2023-03-16 12:30:00-07:00,2023-03-16 16:30:00-07:00,2023-03-15T16:21:32.000Z,2023-03-16T17:53:36.497Z,4.0
+access,0u37rrrg1uak9l459m5k13nedk,Yuning/Galen - Library Synthesis,unknown,galen@octant.bio,2023-03-17 09:00:00-07:00,2023-03-17 13:00:00-07:00,2023-03-16T21:42:50.000Z,2023-03-17T16:43:32.632Z,4.0
+access,5u739it3dijrevn07v9qo2oe3l,Pures QC,unknown,edward@octant.bio,2023-03-17 13:00:00-07:00,2023-03-17 14:00:00-07:00,2023-03-16T21:56:28.000Z,2023-03-16T21:56:30.918Z,1.0
+access,7vl9m78j4t0v5a5knqea1pnq4p,QC,unknown,terry@octant.bio,2023-03-17 14:00:00-07:00,2023-03-17 17:00:00-07:00,2023-03-16T22:10:30.000Z,2023-03-16T22:10:32.720Z,3.0
+access,5edvu730pjt7dm4tq3k99k614s,p53 hit confirmation FAC generation,unknown,drake@octant.bio,2023-03-20 09:00:00-07:00,2023-03-21 00:00:00-07:00,2023-03-17T22:36:14.000Z,2023-03-20T18:36:07.835Z,15.0
+access,5d1vgukp5e03epcve0o03cpfuc,QC plates,unknown,edward@octant.bio,2023-03-21 09:00:00-07:00,2023-03-21 10:00:00-07:00,2023-03-20T16:29:08.000Z,2023-03-20T16:29:11.445Z,1.0
+access,0f2saaqjiqqgdncs4a6tcmf0kc,galt stuff,unknown,albert@octant.bio,2023-03-21 11:00:00-07:00,2023-03-21 13:00:00-07:00,2023-03-20T20:16:10.000Z,2023-03-20T20:16:15.697Z,2.0
+access,6k3m4n45rnhtij0v505aarutif,GFA-041/042: FAC Plate Generation,unknown,theo@octant.bio,2023-03-21 16:00:00-07:00,2023-03-21 20:00:00-07:00,2023-03-20T19:58:48.000Z,2023-03-20T19:58:50.648Z,4.0
+access,5462dmocsh0lt8usule3a1slbg,FAC and QC plates,unknown,edward@octant.bio,2023-03-22 08:00:00-07:00,2023-03-22 10:30:00-07:00,2023-03-16T22:08:30.000Z,2023-03-22T17:47:00.443Z,2.5
+access,3t19k6dsss9u0ls2cp5rivi94p,block for galt,unknown,albert@octant.bio,2023-03-22 13:00:00-07:00,2023-03-22 15:00:00-07:00,2023-03-20T20:15:42.000Z,2023-03-21T19:25:10.570Z,2.0
+access,0rmmdus92h7kgjfe4og6m5slkc,Condition scouting,unknown,edward@octant.bio,2023-03-22 15:00:00-07:00,2023-03-22 17:00:00-07:00,2023-03-21T22:37:37.000Z,2023-03-21T22:37:44.932Z,2.0
+access,6ioq4o2kbq41kkepopmlv30i5p,QC,unknown,terry@octant.bio,2023-03-22 17:00:00-07:00,2023-03-22 19:00:00-07:00,2023-03-23T00:04:18.000Z,2023-03-23T00:04:31.149Z,2.0
+access,5th1qtmjp8pel6rb1re0jctl93,Buchwald Library,unknown,terry@octant.bio,2023-03-23 09:00:00-07:00,2023-03-23 12:30:00-07:00,2023-03-21T16:13:58.000Z,2023-03-23T19:29:33.535Z,3.5
+access,3rgir4p3n5h15kr7rlmuuhj89i,p53 DRC FAC generation,unknown,drake@octant.bio,2023-03-23 15:00:00-07:00,2023-03-23 21:00:00-07:00,2023-03-20T20:32:31.000Z,2023-03-20T20:32:36.115Z,6.0
+access,54e5me43mdcehu9u9lvl94l2fo,Fragment plating,unknown,edward@octant.bio,2023-03-24 09:00:00-07:00,2023-03-24 17:00:00-07:00,2023-03-20T19:01:13.000Z,2023-03-20T19:01:15.966Z,8.0
+access,0dat95n4e4deuec8658a327ar9,p53 FAC,unknown,drake@octant.bio,2023-03-24 17:00:00-07:00,2023-03-24 21:00:00-07:00,2023-03-23T22:28:53.000Z,2023-03-23T22:28:55.843Z,4.0
+access,74amdc16t1prb8hspaqled3hmi,QC Plate,unknown,edward@octant.bio,2023-03-27 08:00:00-07:00,2023-03-27 09:00:00-07:00,2023-03-24T21:02:36.000Z,2023-03-24T21:02:39.805Z,1.0
+access,1eginlsu5vniio1p2n14j7ch90,Assembly,unknown,edward@octant.bio,2023-03-27 13:30:00-07:00,2023-03-27 15:00:00-07:00,2023-03-24T17:40:43.000Z,2023-03-24T17:57:38.465Z,1.5
+access,3517dpslle6prgihc1n1sr0e4s,FAC plate prep,unknown,edward@octant.bio,2023-03-27 15:00:00-07:00,2023-03-27 22:00:00-07:00,2023-03-22T21:20:25.000Z,2023-03-22T21:20:28.197Z,7.0
+access,3veckcbr2ghgfu7rqhamdoepdo,QC Plate,unknown,edward@octant.bio,2023-03-28 07:30:00-07:00,2023-03-28 09:30:00-07:00,2023-03-22T21:21:08.000Z,2023-03-28T15:49:02.919Z,2.0
+access,6dpoqfh0qdsf3dqrnisa762pa7,GFA-043: FAC Plate Generation,unknown,theo@octant.bio,2023-03-28 09:30:00-07:00,2023-03-28 13:30:00-07:00,2023-03-20T20:08:31.000Z,2023-03-28T15:05:58.636Z,4.0
+access,2o6nu5a07i1ib09lvuf3bf3ptg,Pilot lib test,unknown,yshen@octant.bio,2023-03-29 09:30:00-07:00,2023-03-29 12:00:00-07:00,2023-03-24T23:50:21.000Z,2023-03-24T23:51:26.788Z,2.5
+access,0ba7fltmhf3qodjknjnb010d35,Theo Access,unknown,theo@octant.bio,2023-03-29 12:00:00-07:00,2023-03-29 13:30:00-07:00,2023-03-28T17:21:53.000Z,2023-03-28T17:22:15.477Z,1.5
+access,61pogqfkdf8b8lj5tphrt2s82q,hypatia liquid handle testing,unknown,albert@octant.bio,2023-03-29 13:30:00-07:00,2023-03-29 14:30:00-07:00,2023-03-29T20:20:46.000Z,2023-03-29T20:20:51.920Z,1.0
+access,6iur46ju5goggdp6ngn5ut26rp,liquid handle testing,unknown,albert@octant.bio,2023-03-29 13:30:00-07:00,2023-03-29 13:45:00-07:00,2023-03-29T20:24:03.000Z,2023-03-29T20:24:05.478Z,0.25
+access,44nokni8q9c877ikefr64upaga,GALT,unknown,joshua@octant.bio,2023-03-29 13:45:00-07:00,2023-03-29 15:00:00-07:00,2023-03-29T15:14:36.000Z,2023-03-29T15:14:38.658Z,1.25
+access,61tkhnf4fsl5a4q2rnjcejme29,Resyn Condition Scouting EXP,unknown,yshen@octant.bio,2023-03-29 16:00:00-07:00,2023-03-29 17:00:00-07:00,2023-03-29T00:22:25.000Z,2023-03-29T22:43:28.620Z,1.0
+access,3l28tp29o22lc0a2dmtfn18ulm,FAC plates,unknown,edward@octant.bio,2023-03-30 08:00:00-07:00,2023-03-30 11:00:00-07:00,2023-03-24T17:40:55.000Z,2023-03-30T15:32:46.545Z,3.0
+access,6dn0lka6pbm4u63rcepiol2cv9,Galen / Yuning QC plate prep for cond sc exp,unknown,yshen@octant.bio,2023-03-30 11:00:00-07:00,2023-03-30 12:00:00-07:00,2023-03-24T23:58:48.000Z,2023-03-30T00:14:36.045Z,1.0
+access,54f74chne06u4hl4burbj4ip99,p53 FAC,unknown,drake@octant.bio,2023-03-30 12:00:00-07:00,2023-03-30 19:00:00-07:00,2023-03-29T17:25:36.000Z,2023-03-29T17:25:38.949Z,7.0
+access,41obmaladlqeckk6lkj0pv14d6,p53 FAC generation,unknown,drake@octant.bio,2023-03-31 11:00:00-07:00,2023-03-31 18:00:00-07:00,2023-03-30T16:42:17.000Z,2023-03-30T16:42:20.434Z,7.0
+access,5j5on182jjsncbhimv05giq76s,GLA_CVA-001: Make FAC Plates,unknown,joshua@octant.bio,2023-04-03 08:00:00-07:00,2023-04-03 09:30:00-07:00,2023-03-31T21:45:29.000Z,2023-03-31T21:45:30.914Z,1.5
+access,5temh6fe3tc6jqbva0c376n4em,Mig X Ca hit plate miniset ,unknown,yshen@octant.bio,2023-04-03 09:30:00-07:00,2023-04-03 11:30:00-07:00,2023-03-27T19:51:08.000Z,2023-04-03T16:13:24.376Z,2.0
+access,6eh5045eb8qouvm13vpek6kvkh, Fragment plating,unknown,yshen@octant.bio,2023-04-03 11:30:00-07:00,2023-04-03 15:00:00-07:00,2023-03-30T23:10:43.000Z,2023-03-30T23:10:46.408Z,3.5
+access,5c94qjilakv3jfsrg0o3f0g9ss,FAC plate prep,unknown,edward@octant.bio,2023-04-03 15:00:00-07:00,2023-04-03 21:00:00-07:00,2023-03-29T23:17:43.000Z,2023-03-29T23:17:45.675Z,6.0
+access,3c3ms3at4qv6pt010etclvduja,Access (PM Agilent microplate centrifuge) ,unknown,dtagaloa@octant.bio,2023-04-04 09:30:00-07:00,2023-04-04 11:30:00-07:00,2023-03-31T20:20:00.000Z,2023-03-31T20:21:35.649Z,2.0
+access,5r1d18hbp0tsgia7vkhm9fv0h3,FAC plates,unknown,edward@octant.bio,2023-04-04 11:30:00-07:00,2023-04-04 13:00:00-07:00,2023-04-03T22:18:41.000Z,2023-04-03T22:18:58.755Z,1.5
+access,3hdgev64u396m7u7qut3kkkb4l,CTRL plate transfer,unknown,yshen@octant.bio,2023-04-04 13:00:00-07:00,2023-04-04 17:00:00-07:00,2023-04-03T21:00:47.000Z,2023-04-04T20:51:05.619Z,4.0
+access,3d9mu9lcql1ecr6fc5sae2uau5,GFA-047: FAC Plate Prep,unknown,theo@octant.bio,2023-04-04 17:00:00-07:00,2023-04-04 21:00:00-07:00,2023-04-04T19:49:19.000Z,2023-04-04T19:49:23.600Z,4.0
+access,3sn2akm3cksp5smfdg7r7m5qkt,p53 FAC tentative ,unknown,drake@octant.bio,2023-04-04 17:00:00-07:00,2023-04-04 21:00:00-07:00,2023-04-04T18:36:01.000Z,2023-04-04T18:36:05.011Z,4.0
+access,3rgacprna4c91s5pnc07p354oj,p53 FAC plates,unknown,drake@octant.bio,2023-04-05 11:00:00-07:00,2023-04-05 13:00:00-07:00,2023-03-31T18:39:41.000Z,2023-04-05T18:38:22.224Z,2.0
+access,3g1v33cenlcqjursvufugqq4jf,Validation Plate-Mig X 130 frag-new condition,unknown,yshen@octant.bio,2023-04-06 14:00:00-07:00,2023-04-06 16:00:00-07:00,2023-04-03T22:36:50.000Z,2023-04-03T22:36:53.212Z,2.0
+access,4tid5njbsg6tovf74h3c419fge,adRP mini-library,unknown,edward@octant.bio,2023-04-06 16:00:00-07:00,2023-04-06 17:30:00-07:00,2023-04-03T23:32:57.000Z,2023-04-03T23:33:09.981Z,1.5
+access,0evokiv72eh0333ep1mcomdnr5,Echo PM,unknown,jfredlund@octant.bio,2023-04-07 09:00:00-07:00,2023-04-07 13:00:00-07:00,2023-03-29T21:58:08.000Z,2023-03-30T20:57:22.568Z,4.0
+access,63b6eq1qf9liq69ml7t4sjar6b,OMP: Workshops w/ Mentors,unknown,dominic@octant.bio,2023-04-07 13:00:00-07:00,2023-04-07 15:30:00-07:00,2023-03-16T20:15:52.000Z,2023-04-06T23:34:25.333Z,2.5
+access,003cmddcr6f0kae0qbnmm2d7h6,QC plate,unknown,edward@octant.bio,2023-04-07 15:30:00-07:00,2023-04-07 16:30:00-07:00,2023-04-03T23:34:17.000Z,2023-04-03T23:34:34.535Z,1.0
+access,141aehfo1ur5jnrgu0h3p01jj8,QC plate,unknown,yshen@octant.bio,2023-04-07 16:30:00-07:00,2023-04-07 17:30:00-07:00,2023-04-05T16:44:54.000Z,2023-04-05T16:44:56.894Z,1.0
+access,17ruga1prmrfk2ltkadmfuljeh,Resyn plate for 0380992 and 0381067,unknown,yshen@octant.bio,2023-04-10 13:00:00-07:00,2023-04-10 17:00:00-07:00,2023-04-05T16:44:00.000Z,2023-04-07T21:09:17.656Z,4.0
+access,0kk3ietddt35ei0dq6tmlkpdoo,FAC plate prep,unknown,edward@octant.bio,2023-04-10 17:00:00-07:00,2023-04-10 21:00:00-07:00,2023-04-06T18:40:35.000Z,2023-04-10T17:56:20.917Z,4.0
+access,2ondkuvgb3st3gf679o6bltnr9,FAC plate,unknown,edward@octant.bio,2023-04-11 08:00:00-07:00,2023-04-11 10:00:00-07:00,2023-04-10T16:48:04.000Z,2023-04-10T17:52:31.637Z,2.0
+access,02nq6v5quf3kt5ar7r3hvjd1cv,QC plate,unknown,yshen@octant.bio,2023-04-11 10:00:00-07:00,2023-04-11 11:00:00-07:00,2023-04-05T16:53:03.000Z,2023-04-05T16:53:07.485Z,1.0
+access,4qfdcji3i6vk9mn9u42qfmnr66,Set Up FAC,unknown,joshua@octant.bio,2023-04-11 16:00:00-07:00,2023-04-11 16:30:00-07:00,2023-04-11T17:22:58.000Z,2023-04-11T17:23:00.871Z,0.5
+access,0i7j4netu8tnd140f20it2jbst,FAB_GFA-045/048: FAC Plate Prep,unknown,theo@octant.bio,2023-04-11 16:30:00-07:00,2023-04-11 21:30:00-07:00,2023-04-10T03:18:09.000Z,2023-04-10T17:58:46.855Z,5.0
+access,1geoe5emmqkubsg64ujfeedi9d,Theo's Run Restart and Cleanup - Replacing Condition Scouting,unknown,terry@octant.bio,2023-04-12 09:15:00-07:00,2023-04-12 12:45:00-07:00,2023-04-06T17:16:37.000Z,2023-04-12T16:38:57.147Z,3.5
+access,716b1fb18iibtmbc028n7j0thd,GAL_CVA-002: Drugging,unknown,joshua@octant.bio,2023-04-12 13:00:00-07:00,2023-04-12 14:00:00-07:00,2023-04-10T16:43:27.000Z,2023-04-11T18:16:44.385Z,1.0
+access,6iecq63ido3e0kr9f901raqftc,Condition Scouting - SnAr,unknown,terry@octant.bio,2023-04-12 15:30:00-07:00,2023-04-12 17:00:00-07:00,2023-04-12T16:40:10.000Z,2023-04-13T05:23:39.977Z,1.5
+access,2mmteul3ud7qum2nji3bqtkj5q,QC xfer - Buchwald/SnAr,unknown,terry@octant.bio,2023-04-13 10:30:00-07:00,2023-04-13 13:15:00-07:00,2023-04-06T17:18:19.000Z,2023-04-13T18:57:04.262Z,2.75
+access,79r5jo8v4gsfpbn9833d0diu31,start clean?,unknown,albert@octant.bio,2023-04-13 14:30:00-07:00,2023-04-13 17:00:00-07:00,2023-04-12T21:18:04.000Z,2023-04-13T17:00:36.274Z,2.5
+access,5u9c4jrvlmdgbp6veefvj7jo49,flush echo & replace filter,unknown,lizvette@octant.bio,2023-04-14 11:45:00-07:00,2023-04-14 13:00:00-07:00,2023-04-14T17:56:38.000Z,2023-04-14T19:23:59.701Z,1.25
+access,6sp9hs70g84ndi4cbi05puigoq,QC ,unknown,yshen@octant.bio,2023-04-14 13:00:00-07:00,2023-04-14 14:30:00-07:00,2023-04-14T19:55:28.000Z,2023-04-14T19:55:36.899Z,1.5
+access,522mkg92tf27tffijp4supt0b9,Access,unknown,theo@octant.bio,2023-04-14 16:30:00-07:00,2023-04-14 21:30:00-07:00,2023-04-12T21:07:28.000Z,2023-04-14T23:20:21.249Z,5.0
+access,4mhnjcjg625e3d5s2g5vme7348,Glyc FAC plate prep,unknown,stacie@octant.bio,2023-04-17 10:15:00-07:00,2023-04-17 11:00:00-07:00,2023-04-14T22:32:17.000Z,2023-04-15T05:28:10.839Z,0.75
+access,afcodh9rpp5o52e9jlptou00co,Access,unknown,theo@octant.bio,2023-04-17 17:00:00-07:00,2023-04-17 20:00:00-07:00,2023-04-17T15:10:32.000Z,2023-04-17T15:10:35.576Z,3.0
+access,b1tndr3fveqc75ih56qce0ge18,Fabry FAC Plate Prep,unknown,theo@octant.bio,2023-04-18 09:00:00-07:00,2023-04-18 13:00:00-07:00,2023-04-10T18:54:43.000Z,2023-04-18T16:53:48.554Z,4.0
+access,2ia42pkaee1gph868na62orep2,Prep Plates,unknown,joshua@octant.bio,2023-04-18 13:00:00-07:00,2023-04-18 14:00:00-07:00,2023-04-17T20:45:45.000Z,2023-04-17T23:07:19.465Z,1.0
+access,4k955n6fmgg3sl02on9h20fn5m,Access testing,unknown,dominic@octant.bio,2023-04-19 15:30:00-07:00,2023-04-19 16:30:00-07:00,2023-04-19T04:33:16.000Z,2023-04-19T18:37:48.395Z,1.0
+access,68r0fpqc0de53agnpstlntvbet,Access protocol generation,unknown,drake@octant.bio,2023-04-20 09:30:00-07:00,2023-04-20 10:00:00-07:00,2023-04-19T22:12:53.000Z,2023-04-19T22:12:56.582Z,0.5
+access,728bg3lbfm7tkrt3923cqbi61p,Access System drugging PKU hold,unknown,dominic@octant.bio,2023-04-20 13:00:00-07:00,2023-04-20 17:00:00-07:00,2023-04-18T00:05:25.000Z,2023-04-19T23:03:27.842Z,4.0
+access,2e646i0n5adngsq90o4642uhg7,Mini lib test,unknown,yshen@octant.bio,2023-04-20 17:00:00-07:00,2023-04-20 19:30:00-07:00,2023-04-20T17:02:35.000Z,2023-04-21T00:19:29.287Z,2.5
+access,2q49cngdl861mquc04122ouih6,QC Plate,unknown,yshen@octant.bio,2023-04-21 10:30:00-07:00,2023-04-21 12:00:00-07:00,2023-04-19T22:51:52.000Z,2023-04-20T17:34:45.295Z,1.5
+access,0tr0cg745br40ffa7vkjrpe0qv,Resyn_2,unknown,yshen@octant.bio,2023-04-24 11:00:00-07:00,2023-04-24 13:00:00-07:00,2023-04-19T22:52:29.000Z,2023-04-19T22:52:33.057Z,2.0
+access,25eco21eapddn3r6qunb2nq0gg,SnAr assembly,unknown,edward@octant.bio,2023-04-24 13:00:00-07:00,2023-04-24 16:00:00-07:00,2023-04-21T01:15:59.000Z,2023-04-21T01:16:13.304Z,3.0
+access,7of32scmmrben2m5i39q466cj0,adRP assembly,unknown,edward@octant.bio,2023-04-24 16:00:00-07:00,2023-04-24 17:00:00-07:00,2023-04-21T01:16:25.000Z,2023-04-21T01:16:28.159Z,1.0
+access,2n8chsuer3kvh15u76js82sab6,adRP FAC plates,unknown,edward@octant.bio,2023-04-24 17:00:00-07:00,2023-04-24 21:00:00-07:00,2023-04-21T01:14:32.000Z,2023-04-21T01:14:35.156Z,4.0
+access,73cv8d9vkvr87d3kj8lgnushf0,QC Plate / Finish adRP FAC plates,unknown,edward@octant.bio,2023-04-25 07:00:00-07:00,2023-04-25 09:00:00-07:00,2023-04-21T01:17:43.000Z,2023-04-21T01:17:54.604Z,2.0
+access,5hpj6k1tbf0kn0q1trgpc2oo41,p53 direct drugg,unknown,drake@octant.bio,2023-04-25 09:00:00-07:00,2023-04-25 10:00:00-07:00,2023-04-20T23:34:43.000Z,2023-04-20T23:34:46.595Z,1.0
+access,42fn9j73b9opp1r1und89cjlnq,Fabry's:QC plates prep,unknown,yshen@octant.bio,2023-04-25 10:00:00-07:00,2023-04-25 11:00:00-07:00,2023-04-20T21:19:51.000Z,2023-04-20T21:19:53.613Z,1.0
+access,5h4v6k3b45t6agsn8ds7dmdleo,"FAB_GFA-053, 054: FAC Plate Prep",unknown,theo@octant.bio,2023-04-25 11:00:00-07:00,2023-04-25 17:00:00-07:00,2023-04-21T00:29:28.000Z,2023-04-21T00:29:31.222Z,6.0

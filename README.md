@@ -1,8 +1,7 @@
 # gcal_usage
 
-This repository contains a python script for analyzing the users (event creators) and hours (total duration of events) on a [Google calendar](https://www.google.com/calendar/about/) in specified intervals of time.  The script relies on Google's [Google calendar python API](https://developers.google.com/calendar/quickstart/python).  The [ChEM-H MCAC](https://chemh.stanford.edu/knowledge-centers/metabolic-chemistry-analysis-center) uses this script to distribute operating costs for our LC-MS instruments to our collaborators on a usage-time normalized basis.
+This repository contains a python script for analyzing the users (event creators) and hours (total duration of events) on a [Google calendar](https://www.google.com/calendar/about/) in specified intervals of time.  The script relies on Google's [Google calendar python API](https://developers.google.com/calendar/quickstart/python).  I adapted this script from an old one I wrote five years ago at  https://github.com/Stanford-ChEMH-MCAC/gcal_usage. 
 
-We are publishing it because (a) we want to be transparent about how our cost-sharing is done and (b) because learning the Google calendar API took a lot of time and there is a chance this may be useful to other folks that use Google Calendar to track instrument usage.
 
 ## Installation
 
@@ -12,23 +11,22 @@ The script here is not packaged for easy installation; you will have to download
 
 Requirements are many and varied.  A rough guide:
 
-* python 3.5 or higher
-* all the requirements for the Google Calendar API (e.g. `apiclient` and `oauth2client`)
+* python 
+* all the requirements for the Google Calendar API 
 * numpy, pandas, and other standard python libraries.
 * the [`dateutil`](http://dateutil.readthedocs.io/en/stable/) package for parsing isoformatted datetime strings.
 * `argparse`.
 
-* general tip: use the [conda](https://conda.io/docs/) system for package management and installation.
 
 ## Usage example:
 
 ### Log creation
 
-`python get_gcal_log.py -s 2018-01-01 -e 2018-02-01 -c qqq`
+`python get_gcal_log.py -s 2023-03-01 -e 2023-04-30 -c access`
 
 results in 
 
-`Found 35 events and wrote to file out.csv` being printed to standard out and a file out.csv that looks like this:
+`Found 105 events totalling 287.0 hours and wrote to file from_2023-03-01_to_2023-04-30_access.csv` being printed to standard out and a file `from_2023-03-01_to_2023-04-30_access.csv` file that looks like this:
 
 ```
 calendar	created_at	creator_email	creator_name	end_time	event_id	event_name	start_time	updated_at	duration_hr
@@ -80,17 +78,9 @@ optional arguments:
 This code is licensed with the [MIT License](https://opensource.org/licenses/MIT).
 
 
-
-
-
-
-## Contributing
-
-Pull requests are welcome.  If you have questions about how any bit of this works, please file an [issue](https://github.com/Stanford-ChEMH-MCAC/gcal_usage/issues) here on GitHub.
-
 ## Authors
 
-* The code, as of June 2018, was written by [Curt R. Fischer](https://github.com/Stanford-ChEMH-MCAC/).
+* The code, as of June 2023, was written by Curt.
 
 ## License
 
